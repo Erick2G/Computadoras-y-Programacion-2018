@@ -18,3 +18,4 @@ int main(int argc, char *argv[]){
 	result=fniva(c);
 	printf("\n",result);
 }
+//https://www.tutorialspoint.com/cplusplus/cpp_null_pointers.htm
