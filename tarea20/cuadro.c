@@ -16,7 +16,7 @@ int main(int argc, char *argv[]){
 	printf("Cuadro de x\n  Altura: ");
 	scanf("%d",&r);
 	printf("  Largo:");
-	scanf("%d",&b);8
+	scanf("%d",&b);
 	h=fnDimension(b,r);
 	printf("%s",h);
 	return 0;
