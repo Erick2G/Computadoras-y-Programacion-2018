@@ -2,5 +2,5 @@
 Readme.md    
 Nombre: Erick García González   
 Nombre de usuario: Erick2G 
-Correo: e2g369@gmail.com 
+Correo: e2g369@gmail.com    
 Asignatura: Computadoras y Programación
